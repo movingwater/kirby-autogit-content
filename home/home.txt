@@ -2,7 +2,11 @@ Title: Home
 
 ----
 
-Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+Intro: 
+
+Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+Das ist schön.
 
 ----
 
